@@ -10,7 +10,9 @@ public class Triad{
 	    cards[2] = cardThree;
 	   }
 
-
+	  /* This method will take any three enum values and return true 
+	   * if they are either all the same or all different and false otherwise. 
+	   */
 	  private boolean allSameOrDifferent(Enum<?> a, Enum<?> b, Enum<?> c){
 	    if (a == b && b == c)
 	      return true;
