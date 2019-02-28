@@ -9,8 +9,5 @@ HL
 DN
 KF
 
-<<<<<<< HEAD
 I am making another change to this file.
-=======
 CHANGED
->>>>>>> c37e005313076d2ede4548e970f9964b67a651fb
